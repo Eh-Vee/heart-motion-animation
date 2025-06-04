@@ -4,7 +4,7 @@ A simple and fun JavaScript animation that creates a trailing effect of heart sh
 
 ## Demo
 
-![Heart Trail Animation Demo](Screenshot 2025-06-04 at 10 41 28)(https://eh-vee.github.io/heart-trail-animation/)
+(https://eh-vee.github.io/heart-trail-animation/)
 
 ## Features
 
