@@ -19,5 +19,4 @@ A simple and fun JavaScript animation that creates a trailing effect of heart sh
 2. Open the HTML file in a browser.
 3. Move your mouse around the screen to see the hearts follow the cursor.
 
-## File Structure
 
