@@ -1,9 +1,23 @@
-# heart-motion-animation
+# Heart Trail Animation
 
-This was my first follow-along JavaScript project.
+A simple and fun JavaScript animation that creates a trailing effect of heart shapes following the mouse cursor on the screen.
 
-Link to tutorial video: 
-(Channel: Code With Sahand)
-HTML CSS JavaScript Project - Heart Trail Animation
-https://youtu.be/OIpbTKWFmhE?si=poRKz_qjRgm10UGR
+## Demo
+
+[![Heart Trail Animation Demo](path-to-demo-gif-or-screenshot)](https://eh-vee.github.io/heart-trail-animation/)
+
+## Features
+
+- Cute heart-shaped trails that follow the cursor
+- Smooth fading and shrinking effect
+- Lightweight and easy to integrate
+- Customizable heart size and colors
+
+## How to Use
+
+1. Include the HTML, CSS, and JavaScript files in your project.
+2. Open the HTML file in a browser.
+3. Move your mouse around the screen to see the hearts follow the cursor.
+
+## File Structure
 
